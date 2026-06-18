@@ -40,20 +40,18 @@
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
-<div align="center">
-
+<p align="center">
   <a href="https://www.facebook.com/phan.thanh.tai.02112005/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="facebook-icon" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/_177pt/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="instagram-icon" />
   </a>
-  <a href="pthanhtai2k5@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:pthanhtai2k5@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email-icon" />
   </a>
-</div>
-
+</p>
 <br>
-
 
